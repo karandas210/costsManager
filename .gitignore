@@ -1,0 +1,14 @@
+.settings
+target
+.classpath
+.factorypath
+.project
+.errai
+.metadata
+log
+\catalina.*
+*.cache
+*.tmp
+*.log
+*.iml
+.idea
